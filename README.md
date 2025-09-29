@@ -77,12 +77,12 @@ PostgreSQL, MongoDB, Supabase, MySQL — schema design, optimization, migrations
 - Python for AI and Application Development
 
 - **Coursera Certificate**  
-  ![Coursera Certificate](./certificates/Coursera%207LRQH6WTX8S4.pdf)  
+  [![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](./certificates/Coursera%207LRQH6WTX8S4.pdf)  
   [View Certificate (PDF)](./certificates/Coursera%207LRQH6WTX8S4.pdf)
 
 **GitHub Achievements:**  
-[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=flat&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/pull-shark)
-[![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-green?style=flat&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/quickdraw)
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/pull-shark)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/quickdraw)
 
 ---
 
