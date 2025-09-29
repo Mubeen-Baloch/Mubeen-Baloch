@@ -70,15 +70,15 @@ PostgreSQL, MongoDB, Supabase, MySQL — schema design, optimization, migrations
 ## 🎓 Certifications & Achievements
 
 - **IBM Full Stack Software Developer Professional Certificate**  
-  ![IBM Full Stack Software Developer Professional Certificate](./certificates/ibm-fullstack-cert.png)  
+  ![IBM Certificate](./certificates/ibm-fullstack-cert.png)  
   [View Certificate (PDF)](./certificates/ibm-fullstack-cert.pdf)
-- Containers & Kubernetes Essentials
-- Django & Flask APIs, Microservices & Serverless
-- Python for AI and Application Development
 
 - **Coursera Certificate**  
-  [![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](./certificates/Coursera%207LRQH6WTX8S4.pdf)  
+  ![Coursera Certificate](./certificates/coursera-cert.png)  
   [View Certificate (PDF)](./certificates/Coursera%207LRQH6WTX8S4.pdf)
+- Containers & Kubernetes Essentials
+- Django & Flask APIs, Microservices & Serverless
+- Python for AI and Application Development  
 
 **GitHub Achievements:**  
 [![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/pull-shark)
