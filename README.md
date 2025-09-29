@@ -76,9 +76,13 @@ PostgreSQL, MongoDB, Supabase, MySQL — schema design, optimization, migrations
 - Django & Flask APIs, Microservices & Serverless
 - Python for AI and Application Development
 
+- **Coursera Certificate**  
+  ![Coursera Certificate](./certificates/Coursera%207LRQH6WTX8S4.pdf)  
+  [View Certificate (PDF)](./certificates/Coursera%207LRQH6WTX8S4.pdf)
+
 **GitHub Achievements:**  
-[![Pull Shark](https://github.com/Mubeen-Baloch/Mubeen-Baloch/assets/your-achievement-badge-pullshark.png)](https://github.com/achievements/pull-shark)
-[![Quickdraw](https://github.com/Mubeen-Baloch/Mubeen-Baloch/assets/your-achievement-badge-quickdraw.png)](https://github.com/achievements/quickdraw)
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=flat&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/pull-shark)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-green?style=flat&logo=github)](https://github.com/users/Mubeen-Baloch/achievements/quickdraw)
 
 ---
 
